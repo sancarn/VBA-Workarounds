@@ -25,11 +25,11 @@ End Sub
 
 In general it seems  the crash occurs in that general vicinity. Sometimes it doesn't actually crash until close statement, other times it crashes immediately. Often it will at least report the following VBA error:
 
-![img](VBAError.png)
+![img](./VBAError.png)
 
 And either trying to debug or trying to end at this point will cause a crash.
 
-![img2](VBACrash.png)
+![img2](./VBACrash.png)
 
 ## Investigations
 
