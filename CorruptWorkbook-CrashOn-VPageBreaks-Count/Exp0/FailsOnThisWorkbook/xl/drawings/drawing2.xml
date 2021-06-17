@@ -1,0 +1,217 @@
+<c:userShapes xmlns:c="http://schemas.openxmlformats.org/drawingml/2006/chart">
+  <cdr:relSizeAnchor xmlns:cdr="http://schemas.openxmlformats.org/drawingml/2006/chartDrawing">
+    <cdr:from>
+      <cdr:x>0.17235</cdr:x>
+      <cdr:y>0.90159</cdr:y>
+    </cdr:from>
+    <cdr:to>
+      <cdr:x>0.46335</cdr:x>
+      <cdr:y>0.93468</cdr:y>
+    </cdr:to>
+    <cdr:sp macro="" textlink="[3]CSO!$P$20">
+      <cdr:nvSpPr>
+        <cdr:cNvPr id="1029" name="Text Box 5"/>
+        <cdr:cNvSpPr txBox="1">
+          <a:spLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeArrowheads="1"/>
+        </cdr:cNvSpPr>
+      </cdr:nvSpPr>
+      <cdr:spPr bwMode="auto">
+        <a:xfrm xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+          <a:off x="1689652" y="5416826"/>
+          <a:ext cx="2852781" cy="198784"/>
+        </a:xfrm>
+        <a:prstGeom xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" prst="rect">
+          <a:avLst/>
+        </a:prstGeom>
+        <a:noFill xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"/>
+        <a:ln xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" w="9525">
+          <a:noFill/>
+          <a:miter lim="800000"/>
+          <a:headEnd/>
+          <a:tailEnd/>
+        </a:ln>
+        <a:extLst xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+          <a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+            <a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+              <a:solidFill>
+                <a:srgbClr val="FFFFFF" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="a14" a14:legacySpreadsheetColorIndex="65"/>
+              </a:solidFill>
+            </a14:hiddenFill>
+          </a:ext>
+        </a:extLst>
+      </cdr:spPr>
+      <cdr:txBody>
+        <a:bodyPr xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" wrap="square" lIns="18288" tIns="22860" rIns="0" bIns="0" anchor="t" upright="1">
+          <a:noAutofit/>
+        </a:bodyPr>
+        <a:lstStyle xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"/>
+        <a:p xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+          <a:pPr algn="ctr" rtl="0">
+            <a:defRPr sz="1000"/>
+          </a:pPr>
+          <a:fld id="{7D753599-8E7D-4919-AD86-0D137A0CA0F6}" type="TxLink">
+            <a:rPr lang="en-GB" sz="1200" b="0" i="0" u="none" strike="noStrike" baseline="0">
+              <a:solidFill>
+                <a:srgbClr val="000000"/>
+              </a:solidFill>
+              <a:latin typeface="Arial"/>
+              <a:cs typeface="Arial"/>
+            </a:rPr>
+            <a:pPr algn="ctr" rtl="0">
+              <a:defRPr sz="1000"/>
+            </a:pPr>
+            <a:t>Formula A: 14.47 l/s</a:t>
+          </a:fld>
+          <a:endParaRPr lang="en-GB" sz="1200" b="0" i="0" u="none" strike="noStrike" baseline="0">
+            <a:solidFill>
+              <a:srgbClr val="000000"/>
+            </a:solidFill>
+            <a:latin typeface="Arial"/>
+            <a:cs typeface="Arial"/>
+          </a:endParaRPr>
+        </a:p>
+      </cdr:txBody>
+    </cdr:sp>  
+  </cdr:relSizeAnchor>
+  <cdr:relSizeAnchor xmlns:cdr="http://schemas.openxmlformats.org/drawingml/2006/chartDrawing">
+    <cdr:from>
+      <cdr:x>0.58634</cdr:x>
+      <cdr:y>0.90297</cdr:y>
+    </cdr:from>
+    <cdr:to>
+      <cdr:x>0.90523</cdr:x>
+      <cdr:y>0.93674</cdr:y>
+    </cdr:to>
+    <cdr:sp macro="" textlink="[3]CSO!$P$21">
+      <cdr:nvSpPr>
+        <cdr:cNvPr id="1033" name="Text Box 9"/>
+        <cdr:cNvSpPr txBox="1">
+          <a:spLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeArrowheads="1"/>
+        </cdr:cNvSpPr>
+      </cdr:nvSpPr>
+      <cdr:spPr bwMode="auto">
+        <a:xfrm xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+          <a:off x="5748130" y="5425109"/>
+          <a:ext cx="3126193" cy="202898"/>
+        </a:xfrm>
+        <a:prstGeom xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" prst="rect">
+          <a:avLst/>
+        </a:prstGeom>
+        <a:noFill xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"/>
+        <a:ln xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" w="9525">
+          <a:noFill/>
+          <a:miter lim="800000"/>
+          <a:headEnd/>
+          <a:tailEnd/>
+        </a:ln>
+        <a:extLst xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+          <a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+            <a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+              <a:solidFill>
+                <a:srgbClr val="FFFFFF" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="a14" a14:legacySpreadsheetColorIndex="65"/>
+              </a:solidFill>
+            </a14:hiddenFill>
+          </a:ext>
+        </a:extLst>
+      </cdr:spPr>
+      <cdr:txBody>
+        <a:bodyPr xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" wrap="square" lIns="18288" tIns="22860" rIns="0" bIns="0" anchor="t" upright="1">
+          <a:noAutofit/>
+        </a:bodyPr>
+        <a:lstStyle xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"/>
+        <a:p xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+          <a:pPr algn="ctr" rtl="0">
+            <a:defRPr sz="1000"/>
+          </a:pPr>
+          <a:fld id="{85035FAF-CCCD-4D5D-ADEA-5F8B64E5E8D0}" type="TxLink">
+            <a:rPr lang="en-GB" sz="1200" b="0" i="0" u="none" strike="noStrike" baseline="0">
+              <a:solidFill>
+                <a:srgbClr val="000000"/>
+              </a:solidFill>
+              <a:latin typeface="Arial"/>
+              <a:cs typeface="Arial"/>
+            </a:rPr>
+            <a:pPr algn="ctr" rtl="0">
+              <a:defRPr sz="1000"/>
+            </a:pPr>
+            <a:t>#N/A</a:t>
+          </a:fld>
+          <a:endParaRPr lang="en-GB" sz="1200" b="0" i="0" u="none" strike="noStrike" baseline="0">
+            <a:solidFill>
+              <a:srgbClr val="000000"/>
+            </a:solidFill>
+            <a:latin typeface="Arial"/>
+            <a:cs typeface="Arial"/>
+          </a:endParaRPr>
+        </a:p>
+      </cdr:txBody>
+    </cdr:sp>
+  </cdr:relSizeAnchor>
+  <cdr:relSizeAnchor xmlns:cdr="http://schemas.openxmlformats.org/drawingml/2006/chartDrawing">
+    <cdr:from>
+      <cdr:x>0.46305</cdr:x>
+      <cdr:y>0.90265</cdr:y>
+    </cdr:from>
+    <cdr:to>
+      <cdr:x>0.58634</cdr:x>
+      <cdr:y>0.93639</cdr:y>
+    </cdr:to>
+    <cdr:sp macro="" textlink="[3]CSO!$P$19">
+      <cdr:nvSpPr>
+      <cdr:cNvPr id="1035" name="Text Box 11"/>
+      <cdr:cNvSpPr txBox="1">
+      <a:spLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeArrowheads="1"/>
+      </cdr:cNvSpPr>
+      </cdr:nvSpPr>
+      <cdr:spPr bwMode="auto">
+        <a:xfrm xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+          <a:off x="4539467" y="5423196"/>
+          <a:ext cx="1208663" cy="202712"/>
+        </a:xfrm>
+        <a:prstGeom xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" prst="rect">
+          <a:avLst/>
+        </a:prstGeom>
+        <a:noFill xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"/>
+        <a:ln xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" w="9525">
+          <a:noFill/>
+          <a:miter lim="800000"/>
+          <a:headEnd/>
+          <a:tailEnd/>
+        </a:ln>
+        <a:extLst xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+          <a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+            <a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+              <a:solidFill>
+                <a:srgbClr val="FFFFFF" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="a14" a14:legacySpreadsheetColorIndex="65"/>
+              </a:solidFill>
+            </a14:hiddenFill>
+          </a:ext>
+        </a:extLst>
+      </cdr:spPr>
+      <cdr:txBody>
+        <a:bodyPr xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" wrap="square" lIns="18288" tIns="22860" rIns="0" bIns="0" anchor="t" upright="1">
+          <a:noAutofit/>
+        </a:bodyPr>
+        <a:lstStyle xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"/>
+        <a:p xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+          <a:pPr algn="ctr"/>
+          <a:fld id="{2885BA4F-2130-4795-ACE8-966E8EF71473}" type="TxLink">
+            <a:rPr lang="en-US" sz="1200" b="0" i="0" u="none" strike="noStrike">
+              <a:solidFill>
+                <a:srgbClr val="000000"/>
+              </a:solidFill>
+              <a:latin typeface="Arial" pitchFamily="34" charset="0"/>
+              <a:cs typeface="Arial" pitchFamily="34" charset="0"/>
+            </a:rPr>
+            <a:pPr algn="ctr"/>
+            <a:t>#VALUE!</a:t>
+          </a:fld>
+          <a:endParaRPr lang="en-US" sz="1200">
+            <a:latin typeface="Arial" pitchFamily="34" charset="0"/>
+            <a:cs typeface="Arial" pitchFamily="34" charset="0"/>
+          </a:endParaRPr>
+        </a:p>
+      </cdr:txBody>
+    </cdr:sp>
+  </cdr:relSizeAnchor>
+</c:userShapes>
